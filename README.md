@@ -7,3 +7,6 @@ Just a simple program created in C# WPF to gain the JSON data of the save file f
   3. On the right hand side the JSON data would output, you can edit it
   4. After editing it, press encode on top if and it will encode the JSON data to base64
   5. Paste that within the game save options and it will change the save data
+
+## Preview
+![Main program](imgs/sample.png)
