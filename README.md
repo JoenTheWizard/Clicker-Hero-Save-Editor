@@ -1,4 +1,4 @@
-# Clicker-Hero-Save-Editor
+# Clicker Hero Save Editor
 Just a simple program created in C# WPF to gain the JSON data of the save file from the 'Clicker Hero' game
 
 ## How to use
