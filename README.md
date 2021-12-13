@@ -9,7 +9,7 @@ Just a simple program created in C# WPF to gain the JSON data of the save file f
   5. Paste that within the game save options and it will change the save data
 
 ## Preview
-![Main program](imgs/sample.png){:height="50%" width="50%"}
+![Main program](imgs/sample.png)
 
 ## Result
 ![Result](imgs/sample_1.PNG)
