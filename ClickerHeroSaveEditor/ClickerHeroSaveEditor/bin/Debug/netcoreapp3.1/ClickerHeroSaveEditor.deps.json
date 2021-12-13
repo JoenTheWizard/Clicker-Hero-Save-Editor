@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClickerHeroSaveEditor/1.0.0": {
+        "dependencies": {
+          "Ionic.Zlib": "1.9.1.5",
+          "SharpZipLib": "1.3.3"
+        },
+        "runtime": {
+          "ClickerHeroSaveEditor.dll": {}
+        }
+      },
+      "Ionic.Zlib/1.9.1.5": {
+        "runtime": {
+          "lib/Ionic.Zlib.dll": {
+            "assemblyVersion": "1.9.1.5",
+            "fileVersion": "1.9.1.5"
+          }
+        }
+      },
+      "SharpZipLib/1.3.3": {
+        "runtime": {
+          "lib/netstandard2.1/ICSharpCode.SharpZipLib.dll": {
+            "assemblyVersion": "1.3.3.11",
+            "fileVersion": "1.3.3.11"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClickerHeroSaveEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ionic.Zlib/1.9.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1bjZKoYaH+bsqBS4ikgTTU46m3hYeppuMVuqGF2fHCq3pNuIjE3WoQoFLzdmn4POgYDzTfXddNQXKgWTlH87Sw==",
+      "path": "ionic.zlib/1.9.1.5",
+      "hashPath": "ionic.zlib.1.9.1.5.nupkg.sha512"
+    },
+    "SharpZipLib/1.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N8+hwhsKZm25tDJfWpBSW7EGhH/R7EMuiX+KJ4C4u+fCWVc1lJ5zg1u3S1RPPVYgTqhx/C3hxrqUpi6RwK5+Tg==",
+      "path": "sharpziplib/1.3.3",
+      "hashPath": "sharpziplib.1.3.3.nupkg.sha512"
+    }
+  }
+}
